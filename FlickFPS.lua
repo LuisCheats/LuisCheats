@@ -22,6 +22,18 @@ WindUI:Popup({
 })
 
 
+Window:Tag({
+
+    Title = "v0.2.5",
+
+    Icon = "",
+
+    Color = Color3.fromHex("#FFD700"), -- สีเหลือง
+
+    Radius = 6.5,
+
+})
+
 
 local Window = WindUI:CreateWindow({
     Title = "LuisCheats | FpsFlick  [BETA]",
