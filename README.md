@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FF0000&text=Input%20text&descAlign=70"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
 ## ¡Hola! Soy Arlette Xz 🎀 Welcome to my profile ✨
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-🍓 **Soy una pequeña desarrolladora de bots en Node.js**  
+🍓 **Soy una pe desarrolladora de bots en Node.js**  
 🎀 **Lo hago solo por diversión y amor al código**  
 ✨ **Me gusta aprender nuevas cosas**  
 💝 **Me gusta crear y diseñar bots**  
@@ -46,8 +46,8 @@
 
 <div align="center">
   
-### Creations made with love by Arlette Xz 🌷
+### Creations made by 7Noonly 
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa0ce&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
