@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa0ce&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FF0000&text=Input%20text&descAlign=70"/>
 
 ## ¡Hola! Soy Arlette Xz 🎀 Welcome to my profile ✨
 
