@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-## ¡Hola! Soy Arlette Xz 🎀 Welcome to my profile ✨
+## ¡Hola! Soy 7Noonly, Welcome to my profile ✌🏻
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Arlette-Xz/storage/refs/heads/main/img/my-melody-hello-kitty-sanrio-clip-art-others-6a64d3cc3b5135d27cf3a7d43a373e14.png" alt="My Melody" width="200" style="border-radius: 50%;"/>
 </p>
 
-<h2 align="center"> 🌸 CONTACT </h2>
+<h2 align="center"> 🥀 CONTACT </h2>
 
 <div align="center">
 <a href="https://instagram.com/Melody7.xz">
